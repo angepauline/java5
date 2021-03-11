@@ -1,0 +1,29 @@
+.container{
+    padding: 10px;
+    margin: 20px;
+    font-family: 'Akaya Telivigala', cursive;
+    padding: 30px;
+    margin-left: 50px;
+    display: grid;
+    grid-template-columns: repeat(3,auto);
+    grid-row-gap: 40px;
+    grid-column-gap:10px;
+    margin-right: 45px;
+    background-color: rgb(153, 136, 103);
+     
+
+
+       
+}
+h1{
+    text-align: center;
+    font-size: 45px;
+}
+.article{
+    padding: 30px;
+    width: 300px;
+    background-color:whitesmoke;
+    box-shadow: 10px 10px 10px 10px #888888;
+  
+
+}
